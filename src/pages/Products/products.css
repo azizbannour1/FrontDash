@@ -1,0 +1,21 @@
+.btn-product-n-style {
+    position: absolute;
+    left: 81%;
+    top: 10%;
+}
+.more-icon {
+    cursor: pointer;
+}
+a.no-decoration {
+    text-decoration: none;
+  }
+  
+.no-decoration{
+    color: black;
+}
+
+.white-text { 
+    color: white;
+}
+
+  
